@@ -127,8 +127,8 @@ const undangan =()=>{
               <div className="bg-neutral-200 rounded-lg flex items-center px-3">
                 <div className="p-2">
                   <img src="images/mandiri.png" className="w-32 -mt-5" alt="" />
-                  <h1 className="font-bold -mt-4 text-blue-950">SAVA NUR AVIVA</h1>
-                  <p className="text-blue-950 mb-3">1360019405320</p>
+                  <h1 className="font-bold -mt-4 text-blue-950">Abdul Azis</h1>
+                  <p className="text-blue-950 mb-3">1360032352657</p>
                 </div> 
                 <div className="p-2">
                   <img src="images/gift.png" className="w-14 h-auto ml-5" alt="" />
