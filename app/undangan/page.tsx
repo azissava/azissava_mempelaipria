@@ -150,8 +150,8 @@ const undangan =()=>{
         <div className="px-10 md:px-96">
           <img src="images/lastcard.png" alt="" />
           <div className="text-center">
-            <h1 className="text-5xl font-bold">Terimakasih</h1>
-            <p>Wassalamualaikum Wr. Wb</p>
+            <h1 className="text-4xl font-bold">Terimakasih</h1>
+            <p className="text-2xl">Wassalamualaikum Wr. Wb</p>
             <h1 className="text-2xl font-medium">Kami yang berbahagia</h1>
             <h1 className="text-2xl font-medium">Abdul Azis</h1>
             <h1 className="text-2xl font-medium">Sava Nur Aviva</h1>
